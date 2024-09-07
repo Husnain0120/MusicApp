@@ -40,7 +40,7 @@ function Navbar({ className }: { className?: string }) {
             <HoveredLink href="/courses">Music Production</HoveredLink>
           </div>
         </MenuItem>
-        <Link href={"#"}>
+        <Link href={"/contact"}>
           <MenuItem
             setActive={setActive}
             active={active}

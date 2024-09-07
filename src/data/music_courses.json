@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "https://img.freepik.com/free-photo/man-with-laptop-making-heart-with-his-hands_1368-5051.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
+      "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": true,
-      "image": "/courses/piano.jpg"
+      "image": "https://img.freepik.com/free-photo/young-handsome-happy-hipster-man-listening-music-with-headphones-black-studio-with-neon-lights-disco-night-club-hip-hop-style-positive-emotions-face-expression-dancing-concept_155003-30369.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 119.99,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "/courses/vocalist.jpg"
+      "image": "https://img.freepik.com/free-photo/top-view-beautiful-music-concept_23-2148605816.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 129.99,
       "instructor": "Mike Brown",
       "isFeatured": false,
-      "image": "/courses/drumming.jpg"
+      "image": "https://img.freepik.com/free-photo/string-instruments-close-up-musical-concert-generative-ai_169016-28900.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 139.99,
       "instructor": "Chris Davis",
       "isFeatured": false,
-      "image": "/courses/jazz.jpg"
+      "image": "https://img.freepik.com/free-photo/man-with-headphones-covering-his-mouth-with-vinyl-record_1187-2024.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 149.99,
       "instructor": "Alex Wilson",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "https://img.freepik.com/free-photo/headphones-african-american-woman-s-portrait-isolated-dark-studio-background-multicolored-neon-light-beautiful-female-model-concept-human-emotions-facial-expression-sales-ad-fashion_155003-34470.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 159.99,
       "instructor": "Samantha Miller",
       "isFeatured": false,
-      "image": "/courses/song-writing.jpg"
+      "image": "https://img.freepik.com/free-photo/closeup-dj-working-blue-light_181624-18773.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "https://img.freepik.com/free-photo/caucasian-woman-s-portrait-isolated-blue-background-multicolored-neon-light_155003-32526.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 179.99,
       "instructor": "Grace Lee",
       "isFeatured": false,
-      "image": "/courses/classical-music.jpg"
+      "image": "https://img.freepik.com/free-photo/texture-treble-clef-dark-background-isolated-generative-ai_169016-29581.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 189.99,
       "instructor": "Ethan Moore",
       "isFeatured": true,
-      "image": "/courses/blues.jpg"
+      "image": "https://img.freepik.com/free-photo/close-up-young-attractive-charismatic-woman-isolated_273609-35050.jpg?uid=R98459826&ga=GA1.2.1114926933.1708955695&semt=ais_hybrid"
     }
   ]
 }
