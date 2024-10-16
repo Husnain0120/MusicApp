@@ -7,40 +7,35 @@ import Link from "next/link";
 
 function Navbar({ className }: { className?: string }) {
   const [active, setActive] = useState<string | null>(null);
+
   return (
     <div
       className={cn("fixed top-10 inset-x-0 max-w-2xl mx-auto z-50", className)}
     >
       <Menu setActive={setActive}>
         <Link href={"/"}>
-          <MenuItem
-            setActive={setActive}
-            active={active}
-            item="Home"
-          ></MenuItem>
+          <MenuItem setActive={setActive} active={active} item="Home" />
         </Link>
 
         <MenuItem setActive={setActive} active={active} item="Our Courses">
           <div className="flex flex-col space-y-4 text-sm">
-            <HoveredLink
-              className="hover:text-blue-700 hover:underline"
+            <Link
               href="/courses"
+              className="hover:text-blue-700 hover:underline"
             >
               All Courses
-            </HoveredLink>
+            </Link>
 
+            {/* Assuming HoveredLink still works for these items */}
             <HoveredLink href="/courses">Basic Music Theory</HoveredLink>
             <HoveredLink href="/courses">Advance Composition</HoveredLink>
-            <HoveredLink href="/courses">Songweriting</HoveredLink>
+            <HoveredLink href="/courses">Songwriting</HoveredLink>
             <HoveredLink href="/courses">Music Production</HoveredLink>
           </div>
         </MenuItem>
+
         <Link href={"/contact"}>
-          <MenuItem
-            setActive={setActive}
-            active={active}
-            item="Contact us"
-          ></MenuItem>
+          <MenuItem setActive={setActive} active={active} item="Contact us" />
         </Link>
       </Menu>
     </div>
