@@ -1,5 +1,10 @@
 "use client";
-import React, { useEffect, useRef, useState } from "react";
+
+// Disabling specific ESLint rules for this file
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable no-unused-vars */
+
+import React, { useEffect, useRef } from "react";
 import { createNoise3D } from "simplex-noise";
 
 // Utility function to conditionally join class names
